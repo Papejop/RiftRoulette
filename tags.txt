@@ -1,0 +1,26 @@
+furries,0,test
+invisi-buddies,0,test
+4-legged only,0,test
+femboy,0,test
+race,1,test
+region,1,test
+music group,1,test
+reload mechanic,0,test
+ninja,0,test
+pirates,0,test
+deities,0,test
+Ornithology club,0,test
+archeology club,0,test
+floor is lava,0,test
+terrain tresspasers,0,test
+cripple squad,0,test
+deppresion squad,0,test
+transformers,0,test
+heart of the swarm,0,test
+hot,0,test
+cold,0,test
+inanimate,0,test
+hentai monsters,0,test
+chomp chomp,0,test
+guardians of the forest,0,test
+pet project,0,test

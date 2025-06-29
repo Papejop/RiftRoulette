@@ -1,0 +1,7 @@
+race,void,test
+race,daarkinm,test
+race,yordle,test
+region,demacia,test
+region,noxus,test
+music group,KDA,test
+music group,HEARTSTEEL,test
